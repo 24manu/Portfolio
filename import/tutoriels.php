@@ -16,6 +16,6 @@
     // on peut importer le menu en PHP sans passer par index.php
     include "menu.php";
     ?>
-    <img src="img/tuto.jpg" alt="critique de tutos" />
+    <img src="imgages/tuto.jpg" alt="critique de tutos" />
 </body>
 </html>
