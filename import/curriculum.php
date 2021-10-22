@@ -16,6 +16,6 @@
     // on peut importer le menu en PHP sans passer par index.php
     include "menu.php";
     ?>
-    <img src="img/mycv.png" alt="mon CV" />
+    <img src="imgages/mycv.png" alt="mon CV" />
 </body>
 </html>
