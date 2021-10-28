@@ -2,7 +2,7 @@
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,6 +16,6 @@
     // on peut importer le menu en PHP sans passer par index.php
     include "menu.php";
     ?>
-    <img src="images/tuto.jpg" alt="critique de tutos" />
+    
 </body>
 </html>
