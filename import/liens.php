@@ -2,7 +2,7 @@
 include "head.php";
 ?>
 
-<main>
+<main class="mainLiens">
 
     <?php
     // on peut importer le menu en PHP sans passer par index.php
