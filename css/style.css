@@ -1,3 +1,13 @@
 body {
-    background-color: bisque;
+  background-color: #274356;
+}
+
+main {
+  color: black;
+  background-color: #be6161;
+  /*background-image: url("./images/vintageBlue.jpg");*/
+}
+
+footer {
+  background-color: #8b6d6d;
 }
