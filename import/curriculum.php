@@ -11,6 +11,12 @@ include "head.php";
 
     <h1>CV</h1>
 
+    <h2>En construction</h2>
+
+    <a href="?acc"><button>
+            Retour à l'accueil
+        </button></a>
+
 </main>
 
 <?php

@@ -1,13 +1,12 @@
 body {
-  background-color: #274356;
+  /*background-color: #274356;*/
+  background-image: url(/images/backgroundBlue.jpg);
 }
 
-main {
-  color: black;
-  background-color: #be6161;
-  /*background-image: url("./images/vintageBlue.jpg");*/
+nav {
+  background-color: #8b6d6d;
 }
 
 footer {
-  background-color: #8b6d6d;
+  background-color: #f05f40;
 }

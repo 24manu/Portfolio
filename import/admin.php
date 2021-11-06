@@ -11,6 +11,10 @@ include "head.php";
 
     <h1>Log in</h1>
 
+    <a href="?acc"><button>
+            Retour à l'accueil
+        </button></a>
+
 </main>
 
 <?php
