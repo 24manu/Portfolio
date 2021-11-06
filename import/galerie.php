@@ -28,6 +28,10 @@ include "head.php"
                 <img src="./images/dublin.PNG" alt="Site Dublin" /></a>
         </figure>
 
+        <a href="?acc"><button>
+                Retour à l'accueil
+            </button></a>
+
     </div>
 
 </main>
