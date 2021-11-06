@@ -15,9 +15,42 @@ body {
 }
 
 nav {
-  background-color: #8b6d6d;
+  min-height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 2em;
+  margin: 10px;
+  border: 6px solid black;
+  border-radius: 10px;
+}
+
+nav a {
+  color: bisque;
+}
+
+main {
+  margin: 10px;
 }
 
 footer {
   background-color: #f05f40;
+  max-height: 50px;
+  font-size: 2em;
+  margin: 10px;
+  border: 6px solid black;
+  border-radius: 10px;
+  line-height: 50px;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  max-height: 20px;
+  vertical-align: middle;
+}
+
+.right_mob3 {
+  text-align: right;
 }

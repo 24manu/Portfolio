@@ -57,5 +57,3 @@
 </head>
 
 <body>
-
-    <img id="hamburger" src="images/burger.png" onclick="toggle();" />
