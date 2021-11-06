@@ -1,6 +1,17 @@
+/* Cette feuille de style suit une démarche de type "mobile-first"
+Donc toutes les règles définies en priorité seront pour l'écran le plus petit.
+Pour les autres largeurs d'écran, on modifie les propriétés nécessaires dans
+des media queries définies au bas de cette feuille.
+*/
+
+/* ============ ECRANS de largeur inférieure à 800px ================== */
 body {
   /*background-color: #274356;*/
   background-image: url(/images/backgroundBlue.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
