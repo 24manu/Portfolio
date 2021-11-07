@@ -15,17 +15,17 @@ include "head.php"
 
         <figure id="projetPrefo">
             <a href="http://manuel.webdev-cf2m.be/projet/index.html" target="_blank">http://manuel.webdev-cf2m.be/projet/index.html
-                <img src="./images/sitePrefo.PNG" alt="Site projet préfo" /></a>
+                <img src="./images/sitePrefo.PNG" alt="Site projet préfo" height="420" width="420" /></a>
         </figure>
 
         <figure id="projetLivreDor">
             <a href="http://manuel.webdev-cf2m.be/livre-d-or/index.php" target="_blank">http://manuel.webdev-cf2m.be/livre-d-or/index.php
-                <img src="./images/guestBookMM2.PNG" alt="Site projet livre d'or" /></a>
+                <img src="./images/guestBookMM2.PNG" alt="Site projet livre d'or" height="420" width="420" /></a>
         </figure>
 
         <figure id="projetDublin">
             <a href="http://manuel.webdev-cf2m.be/manuDublinV2/index.php" target="_blank">http://manuel.webdev-cf2m.be/manuDublinV2/index.php
-                <img src="./images/dublin.PNG" alt="Site Dublin" /></a>
+                <img src="./images/dublin.PNG" alt="Site Dublin" height="420" width="420" /></a>
         </figure>
 
         <a href="?acc"><button>

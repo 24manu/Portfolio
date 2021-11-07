@@ -1,6 +1,6 @@
 <?php
 
-?> <footer>
+?> <footer class="footer">
         <div class="row">
                 <div class="col">
                         <a href="https://github.com/24manu" target="_blank">
@@ -14,9 +14,11 @@
 
                         </a>
                 </div>
-
+                <div class="col">
+                        <p class="right_mob3">©Copyright 2021 - Mouzelard Manuel</p>
+                </div>
         </div>
-        <p class="right_mob3">©Copyright 2021 - Mouzelard Manuel</p>
+
 
 </footer>
 
