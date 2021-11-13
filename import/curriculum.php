@@ -8,10 +8,16 @@ include "head.php";
     // on peut importer le menu en PHP sans passer par index.php
     include "menu.php";
     ?>
+    <div>
+        <h1>CV</h1>
 
-    <h1>CV</h1>
+        <h2>Page en construction</h2>
 
-    <h2>En construction</h2>
+        <a class="construction">
+            <img src="./images/page-en-construction-1.png" alt="Image de page en construction" height="400px" width="400px" />
+        </a>
+
+    </div>
 
     <a href="?acc"><button>
             Retour à l'accueil
