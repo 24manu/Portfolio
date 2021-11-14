@@ -27,6 +27,8 @@ nav {
   border: 3px solid black;
   border-radius: 10px;
   width: auto;
+  position: sticky;
+  top: 0px;
 }
 
 nav a {
@@ -36,6 +38,9 @@ nav a {
 h1,
 h2 {
   text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: aliceblue;
 }
 
 .presentation {
@@ -124,6 +129,7 @@ h3 a {
 p {
   /*$color: blanchedalmond;*/
   margin: 5px;
+  font-family: cursive;
 }
 
 footer {
@@ -187,4 +193,76 @@ footer {
   width: auto;
   color: black;
   text-align: right;
+}
+
+.entete {
+  display: block;
+  width: center;
+  margin-left: 10px;
+}
+
+/* ============ ECRANS de largeur entre 800px et 1280px ================ */
+@media screen and (min-width: 800px) and (max-width: 1279px) {
+  .galerie {
+    display: block;
+    text-align: center;
+  }
+
+  .galerie p {
+    display: block;
+    width: center;
+    margin-left: auto;
+  }
+
+  .entete {
+    display: block;
+    width: auto;
+    text-align: center;
+  }
+
+  #form1 {
+    text-align: right;
+  }
+}
+
+/* ============ ECRANS de largeur supérieure à 1280px ================== */
+@media screen and (min-width: 1280px) {
+  .presentation {
+    height: 350px;
+    font-size: 30px;
+    vertical-align: center;
+  }
+
+  .objectif {
+    height: 500px;
+    font-size: 30px;
+    vertical-align: center;
+  }
+
+  .dicton {
+    height: 100px;
+    font-size: 30px;
+    vertical-align: center;
+  }
+
+  .galerie {
+    display: block;
+    text-align: center;
+  }
+
+  .galerie p {
+    display: block;
+    width: center;
+    text-align: center;
+  }
+
+  .entete {
+    display: block;
+    width: auto;
+    text-align: center;
+  }
+
+  #form1 {
+    text-align: center;
+  }
 }

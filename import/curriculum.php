@@ -11,8 +11,6 @@ include "head.php";
     <div>
         <h1>CV</h1>
 
-        <h2>Page en construction</h2>
-
         <a class="construction">
             <img src="./images/page-en-construction-1.png" alt="Image de page en construction" height="400px" width="400px" />
         </a>
