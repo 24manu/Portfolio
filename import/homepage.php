@@ -14,7 +14,7 @@ include "head.php";
 
     <p class="presentation">Vous trouverez sur ce site:</br>
 
-        -Une page galerie avec les divers travaux effectuer durant ma formation de Web-développeur.<br>
+        -Une page galerie avec les divers travaux effectués durant ma formation de Web-développeur.<br>
 
         -Une page avec des liens vers des sites très intéressants à visiter.<br>
 
@@ -29,7 +29,7 @@ include "head.php";
 
     <h2>Objectif</h2>
 
-    <p class="objectif">Mon objectif est de vous aider à atteindre les votre.
+    <p class="objectif">Mon objectif est de vous aider à atteindre les vôtres.
         En ce qui concerne le développement web, il ne s’agit pas pour moi de développer “juste un site” mais de développer VOTRE site, destiné à faire évoluer votre projet.
         En me confiant votre projet, c’est plus qu’un développeur web que vous aurez mais véritablement quelqu’un pour vous accompagner tout au long du processus de développement.
         C’est vous, votre projet, qui sera placé au centre de l’attention.

@@ -17,8 +17,8 @@ include "head.php";
             <h2>Tutoriel de Openclassrooms sur les fonctions en Javascript </h2>
             <p>Je le trouve vraiment pas mal, on aborde assez bien les bases.</br>
                 Le chapitre est bien structuré, à la fin de chaque partie tu as même un résumé des points importants à retenir.</br>
-                Facile à comprendre pour les débutants </br>
-                Je recommande ce site, comme tous les tutoriels d'Openclassrooms </p>
+                Facile à comprendre pour les débutants. </br>
+                Je recommande ce site, comme tous les tutoriels d'Openclassrooms. </p>
             <a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6279223-travaillez-sur-les-fonctions" target="_blank">
                 <img src="./images/Logo_OpenClassrooms.png" alt="Logo Openclassrooms" height="100px" width="100px" />
             </a>
