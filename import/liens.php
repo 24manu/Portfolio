@@ -102,7 +102,7 @@ include "head.php";
                 <div class="itemliens">
                     <h3><a href="https://developer.mozilla.org/fr/" target="_blank">MDN webdocs</a></h3>
                     <p class="texteliens">Site en français avec diverses introductions et explications sur quelques langages (surtout HTML, CSS, JS)</p>
-                    <a href="https://developer.mozilla.org/fr/" target="_blank"><img src="./images/MDN_WEB_Docs.svg.png" alt="MDN WEB" height="100px" width="300px"></a>
+                    <a href="https://developer.mozilla.org/fr/" target="_blank"><img src="./images/MDN_Web_Docs.svg.png" alt="MDN WEB" height="100px" width="300px"></a>
                 </div>
                 <div class="itemliens">
                     <h3><a href="https://www.pierre-giraud.com/" target="_blank">Pierre Giraud</a></h3>

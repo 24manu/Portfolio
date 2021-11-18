@@ -8,15 +8,33 @@ include "head.php";
     // on peut importer le menu en PHP sans passer par index.php
     include "menu.php";
     ?>
-    <div>
+    <div id="container">
 
-        <h1>Log in</h1>
+        <!-- zone de connexion -->
 
-        <a class="construction">
-            <img src="./images/page-en-construction-1.png" alt="Image de page en construction" height="400px" width="400px" />
-        </a>
+            <h1>Log in</h1>
+            
+            <form action="verification.php" method="POST">
+                
+                <label><b>Nom d'utilisateur</b></label>
+                <input type="text" placeholder="Entrer le nom d'utilisateur" name="username" required>
 
-    </div>
+                <label><b>Mot de passe</b></label>
+                <input type="password" placeholder="Entrer le mot de passe" name="password" required>
+
+                <input type="submit" id='submit' value='LOGIN' >
+
+                <?php
+                if(isset($_GET['erreur'])){
+                    $err = $_GET['erreur'];
+                    if($err==1 || $err==2)
+                        echo "<p style='color:red'>Utilisateur ou mot de passe incorrect</p>";
+                }
+                ?>
+
+            </form>
+        
+      </div>
 
     <a href="?acc"><button>
             Retour à l'accueil
