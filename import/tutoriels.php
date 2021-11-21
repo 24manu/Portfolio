@@ -20,7 +20,7 @@ include "head.php";
                 Facile à comprendre pour les débutants. </br>
                 Je recommande ce site, comme tous les tutoriels d'Openclassrooms. </p>
             <a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6279223-travaillez-sur-les-fonctions" target="_blank">
-                <img src="./images/Logo_OpenClassrooms.png" alt="Logo Openclassrooms" height="100px" width="100px" />
+                <img src="./images/Logo_OpenClassrooms.png" alt="Logo Openclassrooms" width="100" />
             </a>
         </div>
 
@@ -29,7 +29,7 @@ include "head.php";
             <p>La bible des développeurs, mais pas facile à comprendre pour les débutants.</br>
                 Nécessite un certain temps d'adaptation pour assimiler toutes les explications.</p>
             <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Functions" target="_blank">
-                <img src="./images/MDN_Web_Docs.svg.png" alt="MDN mozilla" height="100px" width="400px" />
+                <img src="./images/MDN_Web_Docs.svg.png" alt="MDN mozilla" height="100" width="400" />
             </a>
         </div>
 

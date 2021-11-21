@@ -12,7 +12,7 @@ include "head.php";
         <h1>CV</h1>
 
         <a class="construction">
-            <img src="./images/page-en-construction-1.png" alt="Image de page en construction" height="400px" width="400px" />
+            <img src="./images/page-en-construction-1.png" alt="Image de page en construction" width="400" />
         </a>
 
     </div>
